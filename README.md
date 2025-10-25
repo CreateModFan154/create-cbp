@@ -1,7 +1,9 @@
 # Create: CBP (Customs and Border Protection) - WIP
 
 **🚨 DISCLAIMER 🚨**
+
 ***WE DO NOT IN ANY WAY, SHAPE, OR FORM SUPPORT ILLEGAL ACTIVITIES IN REAL LIFE.***
+
 This is a Minecraft mod and is intended solely for entertainment and gameplay purposes. The contraband items featured in this mod are realistic but fictional and meant for fun within the context of the game. We strongly encourage everyone to follow all laws and ethical guidelines in real life.
 
 **THIS IS NOT A DRUG DEALER SIMULATOR!**
