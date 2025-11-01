@@ -11,7 +11,7 @@ This is a Minecraft mod and is intended solely for entertainment and gameplay pu
 ## Overview
 
 **Create: CBP** is an **in-development** Minecraft mod that introduces **Customs and Border Protection (CBP)** systems to your world. This mod allows players to set up automated **border stations**, process **cargo**, and **detect contraband** using the mechanics from the **Create mod**. While the mod is **still in development**, the goal is to create an immersive **border control** experience with **cargo scanning**, **contraband detection**, and **border patrol NPCs**.
-
+Crowdin: https://crowdin.com/project/create-cbp
 ---
 
 ## Features (WIP)
